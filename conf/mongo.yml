@@ -1,0 +1,3 @@
+mongo:
+  url: "mongodb://short_url:short_url@42.192.90.211/short_url?w=majority"
+  database: "short_url"
